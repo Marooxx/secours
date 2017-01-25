@@ -15,7 +15,7 @@ Une carte du ciel (constellations vues de la lune) |6 |10|
 Un canot de sauvetage auto-gonflable |15 |14 |
 Une boussole | 4 |5|
 20 litres d'eau | 2 | 2 | 
-Des signaux lumineux |8 |  
+Des signaux lumineux |8 |12|  
 Une boite de premier secours | 3 |13| 
 Un émetteur récepteur FM à piles solaires |7 |9 |
  
