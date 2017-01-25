@@ -12,7 +12,7 @@ Deux pistolets calibre 45 |5  |3  |11|
 Une caisse de lait en poudre |9 |8|12|
 Deux bonbonnes d'oxygène | 1 | 1 |1|
 Une carte du ciel (constellations vues de la lune) |6 |10|9|  
-Un canot de sauvetage auto-gonflable |15 |14 |14|
+Un canot de sauvetage auto-gonflable |15 |14 |9|
 Une boussole | 4 |5|14|
 20 litres d'eau | 2 | 2 |2| 
 Des signaux lumineux |8 |12|10|  
