@@ -1,18 +1,21 @@
+# secours
+les 15 étapes à suivre pour porter secours au vaisseau spatial
 
-| feuille de décision | décision individuelle    | décision collective | NASA |
-| ------------- |:-------------| -----|------:|
-| Une boite d'alumette  |  | |
-|  Aliments concentrés   |   3    |   |
-| 50 mètres de cordon de nylon  |       |     |
-| un parachute en soie |   |  | |
-| un chauffage portatif  |5| ||
-| deux pistolets calibre 45 |  | |
-|  une caisse de lait en poudre   | 6    |  |
-| deux bonbonnes d'oxygène  | 1  |   |
-| une carte du ciel (constellations vue de la lune)  | 9  |  |  |
-| un canot de sauvetage auto-gonflable || ||
-| une boussole  | 8 |  |
-|  20 litres d'eau   |  2   |   |
-| des signaux lumineux  |  |    |
-| une boite de premier secours  |7  | |
-|  un émetteur récepteur FM à piles solaires   |      |    |
+Feuille décision | Décision individuelle |Décision collective | NASA |
+--- | --- | --- | --- |
+`Une boite d'allumettes`|10  |  |
+`Aliments concentrés`|4  |  |
+50 mètres de corde de nylon |11  |  |
+Un parachute en soie |14  |  |
+Un chauffage portatif |12  |  |
+Deux pistolets calibre 45 |5  |  |
+Une caisse de lait en poudre |9 |
+Deux bonbonnes d'oxygène | 1 | 
+Une carte du ciel (constellations vues de la lune) |6 |  
+Un canot de sauvetage auto-gonflable |15 |  |
+Une boussole | 4 |
+20 litres d'eau | 2 | 
+Des signaux lumineux |8 |  
+Une boite de premier secours | 3 | 
+Un émetteur récepteur FM à piles solaires |7 |  |
+ 
