@@ -3,8 +3,8 @@ les 15 étapes à suivre pour porter secours au vaisseau spatial
 
 Feuille décision | Décision individuelle |Décision collective | NASA |
 --- | --- | --- | --- |
-`Une boite d'allumettes`|10  |11 |
-`Aliments concentrés`|4  |4  |
+Une boite d'allumettes|10  |11 |
+Aliments concentrés|4  |4  |
 50 mètres de corde de nylon |11  |7  |
 Un parachute en soie |14  |15  |
 Un chauffage portatif |12  |6  |
