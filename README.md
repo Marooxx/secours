@@ -7,7 +7,7 @@ Feuille décision | Décision individuelle |Décision collective | NASA |
 `Aliments concentrés`|4  |4  |
 50 mètres de corde de nylon |11  |7  |
 Un parachute en soie |14  |15  |
-Un chauffage portatif |12  |5  |
+Un chauffage portatif |12  |6  |
 Deux pistolets calibre 45 |5  |3  |
 Une caisse de lait en poudre |9 |8|
 Deux bonbonnes d'oxygène | 1 | 1 |
